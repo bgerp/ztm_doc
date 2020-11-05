@@ -335,7 +335,7 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
     <properties>
         <property name="savedfilename" show="1">OfficeCabinet_Type1_L1_3P</property>
         <property name="savedfilepath" show="1">C:/Users/POLYGONTeam/Documents/Git/ztm_doc/Cabinets/OfficeCabinet_Type1_L1_3P/OfficeCabinet_Type1_L1_3P.qet</property>
-        <property name="savedtime" show="1">14:29</property>
+        <property name="savedtime" show="1">15:10</property>
         <property name="saveddate" show="1">5.11.2020 г.</property>
     </properties>
     <newdiagrams>
@@ -3016,7 +3016,7 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element prefix="" orientation="0" z="10" y="270" type="embed://import/60_energy/11_water/01_Termicas-Fluidos2_Rafa/Fontaneria/sanitarios/vertedero.elmt" x="520" uuid="{94312b5f-49d4-41f8-83d1-a26868a6d787}" freezeLabel="false">
+            <element prefix="" orientation="0" z="10" y="300" type="embed://import/60_energy/11_water/01_Termicas-Fluidos2_Rafa/Fontaneria/sanitarios/vertedero.elmt" x="570" uuid="{94312b5f-49d4-41f8-83d1-a26868a6d787}" freezeLabel="false">
                 <terminals>
                     <terminal orientation="0" nameHidden="0" id="5" y="-16" name="_" x="-10" number="_"/>
                     <terminal orientation="0" nameHidden="0" id="6" y="-16" name="_" x="10" number="_"/>
@@ -3110,7 +3110,10 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
             </element>
         </elements>
         <conductors>
-            <conductor vertical-alignment="AlignRight" formula="" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="4" x="0" y="0" terminal2="5" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="_" dash-size="2" displaytext="1" condsize="1" function="">
+            <conductor usery="230" vertical-alignment="AlignRight" formula="HW" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" userx="500" terminal1="4" x="0" y="0" terminal2="5" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="HW" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor usery="170" vertical-alignment="AlignRight" formula="CW" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" userx="500" terminal1="10" x="0" y="0" terminal2="6" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="CW" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
             <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="1" x="0" y="0" terminal2="7" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
@@ -3124,16 +3127,13 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
             <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="11" x="0" y="0" terminal2="14" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor vertical-alignment="AlignRight" formula="" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="10" x="0" y="0" terminal2="6" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="_" dash-size="2" displaytext="1" condsize="1" function="">
-                <sequentialNumbers/>
-            </conductor>
             <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="7" x="0" y="0" terminal2="13" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor vertical-alignment="AlignRight" formula="DW-C" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="15" x="0" y="0" terminal2="8" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="DW-C" dash-size="2" displaytext="1" condsize="1" function="">
+            <conductor vertical-alignment="AlignRight" formula="DW-H" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="0" x="0" y="0" terminal2="2" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="DW-H" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor vertical-alignment="AlignRight" formula="DW-H" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="0" x="0" y="0" terminal2="2" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="DW-H" dash-size="2" displaytext="1" condsize="1" function="">
+            <conductor vertical-alignment="AlignRight" formula="DW-C" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="15" x="0" y="0" terminal2="8" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="DW-C" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
         </conductors>

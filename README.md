@@ -7,7 +7,7 @@ This includes:
  - Electrical schematics and sheets.
  - Electronic schematics and sheets.
  - Thermal and hydro schematics and sheets.
- - Flows, diagrams, and chats of the process control.
+ - Flows, diagrams, and charts of the process control.
 
  This repository is not licensed by single license. Every single project in it is licensed separately, as separate material.
 
