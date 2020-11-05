@@ -1,12 +1,13 @@
 ## Introduction
 
-This folder is made to hold all the schematic of controll a single office in the building.
+This folder is made to hold all the schematic of controls a single office in the building.
+
 Features of Type 1 cabinet:
  - 3 Phase power supply
  - Self needs of the cabinet is placed on L1.
  - Clients are connected to L2 and L3.
- - Power analyser (metter) are included, measuring 87 parameters of the clients power supply and elf needs included.
- - Single plate cabbinnet.
+ - Power analyser (meter) are included, measuring 87 parameters of the clients power supply and elf needs included.
+ - Single plate cabinet.
  - Compact size 350/500/195, IP 65
 
 ## Contribution
@@ -47,7 +48,7 @@ Sheets of the terminal descriptions.
 ![13 Terminals](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/13_terminals_2.png)
 ![14 Terminals](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/14_terminals_3.png)
 
-Monting diagram for placing all components in the space of the cabinet.
+Mounting diagram for placing all components in the space of the cabinet.
 ![15 Mounting](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/15_mounting.png)
 
 ## Exports
