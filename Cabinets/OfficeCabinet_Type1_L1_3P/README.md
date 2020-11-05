@@ -16,7 +16,7 @@ Features of Type 1 cabinet:
 ## Sheets and Explanation
 
 Main power of the cabinet. In this Type 1 the power is [**3 phase**](https://en.wikipedia.org/wiki/Three-phase_electric_power).
-![1 Main Power](exports\1_main_power.png)
+![1 Main Power](.\exports\1_main_power.png)
 
 **Clients Terminals** are terminals where the clients power lines are connects to the cabinet. Clients are sourcing power from it. This power has been measured and analysed by power analyser. The data has been sent to the main [**ERP**](https://bgerp.com/) of the building.
 ![2 Clients Terminals](exports\2_clients_terminals.png)
