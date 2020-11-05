@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ControlledBlinds-rescue)(type Legacy)(uri ${KIPRJMOD}/ControlledBlinds-rescue.lib)(options "")(descr ""))
+  (lib (name Blinds-rescue)(type Legacy)(uri ${KIPRJMOD}/Blinds-rescue.lib)(options "")(descr ""))
+)
