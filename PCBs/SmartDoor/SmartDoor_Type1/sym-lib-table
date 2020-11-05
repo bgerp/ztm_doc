@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 1Wire)(type Legacy)(uri C:/Users/POLYGONTeam/Documents/KiCAD/Zontromat/SmartDoor_v1/SmartDoor/libs/1wire.lib)(options "")(descr ""))
+  (lib (name SmartDoor-rescue)(type Legacy)(uri ${KIPRJMOD}/SmartDoor-rescue.lib)(options "")(descr ""))
+)
