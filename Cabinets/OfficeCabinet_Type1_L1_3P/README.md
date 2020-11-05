@@ -3,12 +3,12 @@
 This folder is made to hold all the schematic of controls a single office in the building.
 
 Features of Type 1 cabinet:
- - 3 Phase power supply
- - Self needs of the cabinet is placed on L1.
+ - 3 Phase power supply.
+ - Self needs of the cabinet is connected to L1.
  - Clients are connected to L2 and L3.
- - Power analyser (meter) are included, measuring 87 parameters of the clients power supply and elf needs included.
+ - Power analyser (meter) are included, measuring 87 parameters of the clients power supply and self needs included.
  - Single plate cabinet.
- - Compact size 350/500/195, IP 65
+ - Compact size 350/500/195, IP 65.
 
 ## Contribution
 
