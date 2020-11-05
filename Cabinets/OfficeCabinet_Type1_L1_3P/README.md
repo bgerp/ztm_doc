@@ -31,7 +31,7 @@ Sensors of the system are divided by few sheets, they are used to measure the pa
 This folio will be filled after precising the concept of the sensor group.
 ![5 Sensors 2](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/5_sensors_2.png)
 
-Drinking water folio is part of the sensor group, is is displaying how the drinking water is measured inside one target room.
+Drinking water folio is part of the sensor group. It is displaying how the drinking water is measured inside one target room.
 ![6 Drink Water](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/6_drink_water.png)
 
 Lamps of the room.
