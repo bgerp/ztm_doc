@@ -335,7 +335,7 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
     <properties>
         <property name="savedfilename" show="1">OfficeCabinet_Type1_L1_3P</property>
         <property name="savedfilepath" show="1">C:/Users/POLYGONTeam/Documents/Git/ztm_doc/Cabinets/OfficeCabinet_Type1_L1_3P/OfficeCabinet_Type1_L1_3P.qet</property>
-        <property name="savedtime" show="1">15:10</property>
+        <property name="savedtime" show="1">15:12</property>
         <property name="saveddate" show="1">5.11.2020 г.</property>
     </properties>
     <newdiagrams>
@@ -2432,13 +2432,30 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
             </element>
         </elements>
         <conductors>
+            <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="27" x="0" y="0" terminal2="16" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="33" x="0" y="0" terminal2="25" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="25" x="0" y="0" terminal2="19" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
             <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="31" x="0" y="0" terminal2="15" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
             <conductor vertical-alignment="AlignRight" formula="N1" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="21" x="0" y="0" terminal2="20" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="N1" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="8" x="0" y="0" terminal2="35" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
+            <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="35" x="0" y="0" terminal2="27" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="28" x="0" y="0" terminal2="3" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <segment orientation="vertical" length="-9"/>
+                <segment orientation="vertical" length="-31"/>
+                <segment orientation="horizontal" length="-30"/>
+                <segment orientation="vertical" length="31"/>
+                <segment orientation="vertical" length="9"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="14" x="0" y="0" terminal2="7" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
@@ -2447,9 +2464,6 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 <segment orientation="horizontal" length="30"/>
                 <segment orientation="vertical" length="31"/>
                 <segment orientation="vertical" length="9"/>
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="35" x="0" y="0" terminal2="27" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
             <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="30" x="0" y="0" terminal2="39" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
@@ -2468,7 +2482,38 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 <segment orientation="vertical" length="9"/>
                 <sequentialNumbers/>
             </conductor>
-            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="28" x="0" y="0" terminal2="3" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+            <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="8" x="0" y="0" terminal2="35" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="32" x="0" y="0" terminal2="28" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <segment orientation="vertical" length="-9"/>
+                <segment orientation="vertical" length="-31"/>
+                <segment orientation="horizontal" length="-30"/>
+                <segment orientation="vertical" length="31"/>
+                <segment orientation="vertical" length="9"/>
+                <sequentialNumbers/>
+            </conductor>
+            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="38" x="0" y="0" terminal2="5" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor vertical-alignment="AlignRight" formula="N1" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="37" x="0" y="0" terminal2="23" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="N1" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="12" x="0" y="0" terminal2="10" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <segment orientation="vertical" length="-9"/>
+                <segment orientation="vertical" length="-31"/>
+                <segment orientation="horizontal" length="-30"/>
+                <segment orientation="vertical" length="31"/>
+                <segment orientation="vertical" length="9"/>
+                <sequentialNumbers/>
+            </conductor>
+            <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="15" x="0" y="0" terminal2="8" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor vertical-alignment="AlignRight" formula="L1.2" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="36" x="0" y="0" terminal2="2" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="L1.2" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="10" x="0" y="0" terminal2="17" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
                 <segment orientation="vertical" length="-9"/>
                 <segment orientation="vertical" length="-31"/>
                 <segment orientation="horizontal" length="-30"/>
@@ -2484,54 +2529,7 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 <segment orientation="vertical" length="9"/>
                 <sequentialNumbers/>
             </conductor>
-            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="12" x="0" y="0" terminal2="10" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
-                <segment orientation="vertical" length="-9"/>
-                <segment orientation="vertical" length="-31"/>
-                <segment orientation="horizontal" length="-30"/>
-                <segment orientation="vertical" length="31"/>
-                <segment orientation="vertical" length="9"/>
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="10" x="0" y="0" terminal2="17" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
-                <segment orientation="vertical" length="-9"/>
-                <segment orientation="vertical" length="-31"/>
-                <segment orientation="horizontal" length="-30"/>
-                <segment orientation="vertical" length="31"/>
-                <segment orientation="vertical" length="9"/>
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="32" x="0" y="0" terminal2="28" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
-                <segment orientation="vertical" length="-9"/>
-                <segment orientation="vertical" length="-31"/>
-                <segment orientation="horizontal" length="-30"/>
-                <segment orientation="vertical" length="31"/>
-                <segment orientation="vertical" length="9"/>
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="L1.2" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="36" x="0" y="0" terminal2="2" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="L1.2" dash-size="2" displaytext="1" condsize="1" function="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="38" x="0" y="0" terminal2="5" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="15" x="0" y="0" terminal2="8" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="N1" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="37" x="0" y="0" terminal2="23" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="N1" dash-size="2" displaytext="1" condsize="1" function="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="L1.2" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="0" x="0" y="0" terminal2="9" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="L1.2" dash-size="2" displaytext="1" condsize="1" function="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="7" x="0" y="0" terminal2="34" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
-                <segment orientation="vertical" length="-9"/>
-                <segment orientation="vertical" length="-31"/>
-                <segment orientation="horizontal" length="30"/>
-                <segment orientation="vertical" length="31"/>
-                <segment orientation="vertical" length="9"/>
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="4" x="0" y="0" terminal2="29" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="29" x="0" y="0" terminal2="33" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
             <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="5" x="0" y="0" terminal2="17" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
@@ -2542,7 +2540,12 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 <segment orientation="vertical" length="9"/>
                 <sequentialNumbers/>
             </conductor>
-            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="29" x="0" y="0" terminal2="33" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+            <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="7" x="0" y="0" terminal2="34" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <segment orientation="vertical" length="-9"/>
+                <segment orientation="vertical" length="-31"/>
+                <segment orientation="horizontal" length="30"/>
+                <segment orientation="vertical" length="31"/>
+                <segment orientation="vertical" length="9"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="34" x="0" y="0" terminal2="26" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
@@ -2553,10 +2556,16 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 <segment orientation="vertical" length="9"/>
                 <sequentialNumbers/>
             </conductor>
+            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="4" x="0" y="0" terminal2="29" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor vertical-alignment="AlignRight" formula="L1.2" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="0" x="0" y="0" terminal2="9" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="L1.2" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
             <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="13" x="0" y="0" terminal2="4" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="11" x="0" y="0" terminal2="13" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="6" x="0" y="0" terminal2="18" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
             <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="32" x="0" y="0" terminal2="24" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
@@ -2567,19 +2576,10 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 <segment orientation="vertical" length="9"/>
                 <sequentialNumbers/>
             </conductor>
+            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="11" x="0" y="0" terminal2="13" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
             <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="18" x="0" y="0" terminal2="11" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="6" x="0" y="0" terminal2="18" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="33" x="0" y="0" terminal2="25" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="27" x="0" y="0" terminal2="16" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="25" x="0" y="0" terminal2="19" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
         </conductors>
@@ -2632,7 +2632,7 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element prefix="" orientation="0" z="10" y="420" type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="960" uuid="{eaefa1ba-4299-448d-8f55-08d7a062777e}" freezeLabel="false">
+            <element prefix="" orientation="1" z="10" y="590" type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="350" uuid="{eaefa1ba-4299-448d-8f55-08d7a062777e}" freezeLabel="false">
                 <terminals>
                     <terminal orientation="3" nameHidden="0" id="3" y="0" name="_" x="-9" number="_"/>
                 </terminals>
@@ -2686,7 +2686,7 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element prefix="" orientation="0" z="10" y="80" type="embed://import/10_electric/10_allpole/114_connections/splice.elmt" x="583" uuid="{aa5743e9-4442-4635-a0ac-f397185954d4}" freezeLabel="false">
+            <element prefix="" orientation="0" z="10" y="80" type="embed://import/10_electric/10_allpole/114_connections/splice.elmt" x="588" uuid="{aa5743e9-4442-4635-a0ac-f397185954d4}" freezeLabel="false">
                 <terminals>
                     <terminal orientation="3" nameHidden="0" id="9" y="0" name="_" x="-6" number="_"/>
                     <terminal orientation="1" nameHidden="0" id="10" y="0" name="_" x="0" number="_"/>
@@ -2721,7 +2721,7 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element prefix="" orientation="0" z="10" y="50" type="embed://import/10_electric/10_allpole/114_connections/splice.elmt" x="599" uuid="{3f028c7e-a96c-4385-89ff-14b270752d63}" freezeLabel="false">
+            <element prefix="" orientation="0" z="10" y="50" type="embed://import/10_electric/10_allpole/114_connections/splice.elmt" x="604" uuid="{3f028c7e-a96c-4385-89ff-14b270752d63}" freezeLabel="false">
                 <terminals>
                     <terminal orientation="3" nameHidden="0" id="14" y="0" name="_" x="-6" number="_"/>
                     <terminal orientation="1" nameHidden="0" id="15" y="0" name="_" x="0" number="_"/>
@@ -2776,7 +2776,7 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element prefix="" orientation="0" z="10" y="390" type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="960" uuid="{90219095-2986-4917-b2d8-db41a30d9d32}" freezeLabel="false">
+            <element prefix="" orientation="1" z="10" y="590" type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="480" uuid="{90219095-2986-4917-b2d8-db41a30d9d32}" freezeLabel="false">
                 <terminals>
                     <terminal orientation="3" nameHidden="0" id="21" y="0" name="_" x="-9" number="_"/>
                 </terminals>
@@ -2813,7 +2813,7 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element prefix="" orientation="0" z="10" y="360" type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="960" uuid="{c88640c7-d505-4b19-add4-c5eaf3225dec}" freezeLabel="false">
+            <element prefix="" orientation="1" z="10" y="590" type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="610" uuid="{c88640c7-d505-4b19-add4-c5eaf3225dec}" freezeLabel="false">
                 <terminals>
                     <terminal orientation="3" nameHidden="0" id="25" y="0" name="_" x="-9" number="_"/>
                 </terminals>
@@ -2868,7 +2868,7 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element prefix="" orientation="0" z="10" y="450" type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="960" uuid="{21f841ac-dea8-447d-897d-273a958fce5d}" freezeLabel="false">
+            <element prefix="" orientation="1" z="10" y="590" type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="220" uuid="{21f841ac-dea8-447d-897d-273a958fce5d}" freezeLabel="false">
                 <terminals>
                     <terminal orientation="3" nameHidden="0" id="29" y="0" name="_" x="-9" number="_"/>
                 </terminals>
@@ -2894,10 +2894,9 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
             </conductor>
             <conductor vertical-alignment="AlignRight" formula="PIR" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="2" x="0" y="0" terminal2="25" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="PIR" dash-size="2" displaytext="1" condsize="1" function="">
                 <segment orientation="horizontal" length="-9"/>
-                <segment orientation="horizontal" length="-88"/>
-                <segment orientation="vertical" length="155"/>
-                <segment orientation="horizontal" length="338"/>
-                <segment orientation="horizontal" length="9"/>
+                <segment orientation="horizontal" length="-78"/>
+                <segment orientation="vertical" length="363"/>
+                <segment orientation="vertical" length="9"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor vertical-alignment="AlignRight" formula="CT" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="27" x="0" y="0" terminal2="21" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="CT" dash-size="2" displaytext="1" condsize="1" function="">
@@ -2912,13 +2911,13 @@ Created by POLYGONTeam Ltd, written by Orlin Dimitrov 2020
             <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="9" x="0" y="0" terminal2="28" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="1" x="0" y="0" terminal2="11" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
-                <sequentialNumbers/>
-            </conductor>
             <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="14" x="0" y="0" terminal2="5" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
             <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="18" x="0" y="0" terminal2="17" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor vertical-alignment="AlignRight" formula="-24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="1" x="0" y="0" terminal2="11" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="-24V" dash-size="2" displaytext="1" condsize="1" function="">
                 <sequentialNumbers/>
             </conductor>
             <conductor vertical-alignment="AlignRight" formula="+24V" tension-protocol="" freezeLabel="false" type="multi" vertirotatetext="270" terminal1="20" x="0" y="0" terminal2="12" horizrotatetext="0" color2="#000000" onetextperfolio="0" bicolor="false" horizontal-alignment="AlignBottom" numsize="7" num="+24V" dash-size="2" displaytext="1" condsize="1" function="">
