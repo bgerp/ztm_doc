@@ -56,3 +56,7 @@ Mounting diagram for placing all components in the space of the cabinet.
  - PDF export can be found in [**export\office_cabinet.pdf**](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/office_cabinet.pdf).
 
  - PNG images can also be found in [**exports**](https://github.com/bgerp/ztm_doc/tree/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports).
+
+ ## Wiring 
+
+Table color code and [wiring](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Wiring/TestOfficeWiring.md).
