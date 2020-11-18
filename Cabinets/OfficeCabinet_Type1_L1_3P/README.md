@@ -59,4 +59,4 @@ Mounting diagram for placing all components in the space of the cabinet.
 
  ## Wiring 
 
-Table color code and [wiring](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Wiring/TestOfficeWiring.md).
+Table color code and [wiring](https://github.com/bgerp/ztm_doc/blob/master/Wiring/TestOffice/README.md).
