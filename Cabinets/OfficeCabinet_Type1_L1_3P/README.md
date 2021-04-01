@@ -23,33 +23,39 @@ Main power of the cabinet. In this Type 1 the power is [**3 phase**](https://en.
 ![2 Clients Terminals](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/2_clients_terminals.png)
 
 The operation voltage is 24VDC where it is powering PLC, and other modules inside the cabinet.
-![3 Operation Voltage](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/3_operation_voltage.png)
+![3 Operation Voltage 24](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/3_operation_voltage_24.png)
+
+The operation voltage is 12VDC where it is powering Ethernet Switch, Tablet, Blinds and other modules inside the cabinet.
+![4 Operation Voltage 12](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/4_operation_voltage_12.png)
 
 Sensors of the system are divided by few sheets, they are used to measure the parameters of the environment of the target zone. At this sheet this is tampers switches and PIR sensor. All active signals are connected through terminals to the main PLC of the cabinet.
-![4 Sensors 1](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/4_sensors_1.png)
+![5 Sensors 1](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/5_sensors_1.png)
 
 This folio will be filled after precising the concept of the sensor group.
-![5 Sensors 2](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/5_sensors_2.png)
+![6 Sensors 2](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/6_sensors_2.png)
 
 Drinking water folio is part of the sensor group. It is displaying how the drinking water is measured inside one target room.
-![6 Drink Water](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/6_drink_water.png)
+![7 Drink Water](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/7_drink_water.png)
 
 Lamps of the room.
-![7 Lamps](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/7_lamps.png)
+![8 Lamps](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/8_lamps.png)
 
 HVAC - consisting of 2 fans, 2 valves, 1 convector, 5 thermo sensors.
-![8 HVAC](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/8_hvac.png)
+![9 HVAC](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/9_hvac.png)
+
+Door Lock - consisting of electric lock clutch and and schematic to control the motor of the clutch.
+![10 Door Lock](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/10_door_lock.png)
 
 **PLC** or Controller is the main logic unit that takes actions for the room. 
-![11 Controller](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/11_controller.png)
+![12 Controller](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/12_controller.png)
 
 Sheets of the terminal descriptions.
-![12 Terminals](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/12_terminals_1.png)
-![13 Terminals](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/13_terminals_2.png)
-![14 Terminals](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/14_terminals_3.png)
+![13 Terminals](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/13_terminals_1.png)
+![14 Terminals](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/14_terminals_2.png)
+![15 Terminals](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/15_terminals_3.png)
 
 Mounting diagram for placing all components in the space of the cabinet.
-![15 Mounting](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/15_mounting.png)
+![16 Mounting](https://raw.githubusercontent.com/bgerp/ztm_doc/master/Cabinets/OfficeCabinet_Type1_L1_3P/exports/16_mounting.png)
 
 ## Exports
 
