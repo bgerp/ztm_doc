@@ -36,7 +36,7 @@ F 3 "" H 3250 1850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3150 1750 3250 1750
+	3100 1750 3250 1750
 Wire Wire Line
 	3250 1750 3250 1850
 $Comp
@@ -135,12 +135,12 @@ Connection ~ 3700 2050
 $Comp
 L Connector:Conn_01x03_Male J1
 U 1 1 5D8E3350
-P 2950 1650
-F 0 "J1" H 3058 1931 50  0000 C CNN
-F 1 "Conn_01x03_Male" H 3058 1840 50  0000 C CNN
-F 2 "Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G-5,08_1x03_P5.08mm_Vertical" H 2950 1650 50  0001 C CNN
-F 3 "~" H 2950 1650 50  0001 C CNN
-	1    2950 1650
+P 2900 1650
+F 0 "J1" H 3008 1931 50  0000 C CNN
+F 1 "Conn_01x03_Male" H 3008 1840 50  0000 C CNN
+F 2 "Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G-5,08_1x03_P5.08mm_Vertical" H 2900 1650 50  0001 C CNN
+F 3 "~" H 2900 1650 50  0001 C CNN
+	1    2900 1650
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -210,11 +210,7 @@ F 3 "" H 5500 4300 50  0001 C CNN
 $EndComp
 Connection ~ 3850 1650
 Wire Wire Line
-	3150 1550 3700 1550
-Wire Wire Line
 	3700 1550 3700 2050
-Wire Wire Line
-	3150 1650 3850 1650
 Wire Wire Line
 	5500 3600 5500 3800
 $Comp
@@ -1104,4 +1100,8 @@ E6 A1 BA B7 86 A2 FF A7 49 3B 60 A0 69 41 4A 8B A4 C3 BB E5 E0 3C 86 56 9E C1 9C
 66 51 D3 F2 00 00 00 00 49 45 4E 44 AE 42 60 82 
 EndData
 $EndBitmap
+Wire Wire Line
+	3100 1550 3700 1550
+Wire Wire Line
+	3100 1650 3850 1650
 $EndSCHEMATC
