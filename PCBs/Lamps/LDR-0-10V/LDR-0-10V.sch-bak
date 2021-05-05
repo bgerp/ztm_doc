@@ -232,4 +232,47 @@ Wire Wire Line
 Connection ~ 5500 5000
 Wire Wire Line
 	5500 5000 5000 5000
+$Comp
+L Connector:Conn_01x02_Female J?
+U 1 1 608FC6EA
+P 2850 4550
+F 0 "J?" H 2742 4225 50  0000 C CNN
+F 1 "Conn_01x02_Female" H 2742 4316 50  0000 C CNN
+F 2 "" H 2850 4550 50  0001 C CNN
+F 3 "~" H 2850 4550 50  0001 C CNN
+	1    2850 4550
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3050 4450 3500 4450
+Wire Wire Line
+	3500 4450 3500 3900
+Wire Wire Line
+	3500 3900 3700 3900
+Wire Wire Line
+	3050 4550 3500 4550
+Wire Wire Line
+	3500 4550 3500 5000
+Wire Wire Line
+	3500 5000 3700 5000
+$Comp
+L Connector:Conn_01x02_Female J?
+U 1 1 608FF72D
+P 8300 4000
+F 0 "J?" H 8328 3976 50  0000 L CNN
+F 1 "Conn_01x02_Female" H 8328 3885 50  0000 L CNN
+F 2 "" H 8300 4000 50  0001 C CNN
+F 3 "~" H 8300 4000 50  0001 C CNN
+	1    8300 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 4000 7500 4000
+Wire Wire Line
+	8100 4100 8000 4100
+Wire Wire Line
+	8000 4100 8000 5000
+Wire Wire Line
+	8000 5000 7500 5000
+Connection ~ 7500 5000
 $EndSCHEMATC

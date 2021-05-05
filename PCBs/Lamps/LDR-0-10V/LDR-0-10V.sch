@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "LDR to 0-10V"
+Date "2021-04-28"
+Rev "1"
+Comp "POLYGON Team"
 Comment1 ""
 Comment2 ""
 Comment3 ""
