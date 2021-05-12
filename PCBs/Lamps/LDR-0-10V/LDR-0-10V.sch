@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Amplifier_Operational:LM358 U?
+L Amplifier_Operational:LM358 U1
 U 1 1 60893231
 P 7050 4000
-F 0 "U?" H 7050 4367 50  0000 C CNN
+F 0 "U1" H 7050 4367 50  0000 C CNN
 F 1 "LM358" H 7050 4276 50  0000 C CNN
 F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 7050 4000 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf" H 7050 4000 50  0001 C CNN
@@ -25,10 +25,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf" H 7050 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Amplifier_Operational:LM358 U?
+L Amplifier_Operational:LM358 U1
 U 3 1 60895EDF
 P 3800 4500
-F 0 "U?" H 3758 4546 50  0000 L CNN
+F 0 "U1" H 3758 4546 50  0000 L CNN
 F 1 "LM358" H 3758 4455 50  0000 L CNN
 F 2 "" H 3800 4500 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf" H 3800 4500 50  0001 C CNN
@@ -36,34 +36,34 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf" H 3800 4500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Sensor_Optical:LDR03 R?
+L Sensor_Optical:LDR03 R1
 U 1 1 60898305
 P 5000 3500
-F 0 "R?" H 5070 3546 50  0000 L CNN
+F 0 "R1" H 5070 3546 50  0000 L CNN
 F 1 "LDR03" H 5070 3455 50  0000 L CNN
-F 2 "OptoDevice:R_LDR_10x8.5mm_P7.6mm_Vertical" V 5175 3500 50  0001 C CNN
+F 2 "OptoDevice:R_LDR_5.0x4.1mm_P3mm_Vertical" V 5175 3500 50  0001 C CNN
 F 3 "http://www.elektronica-componenten.nl/WebRoot/StoreNL/Shops/61422969/54F1/BA0C/C664/31B9/2173/C0A8/2AB9/2AEF/LDR03IMP.pdf" H 5000 3450 50  0001 C CNN
 	1    5000 3500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R3
 U 1 1 60898D17
 P 7000 3500
-F 0 "R?" V 6793 3500 50  0000 C CNN
-F 1 "R" V 6884 3500 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal" V 6930 3500 50  0001 C CNN
+F 0 "R3" V 6793 3500 50  0000 C CNN
+F 1 "100" V 6884 3500 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6930 3500 50  0001 C CNN
 F 3 "~" H 7000 3500 50  0001 C CNN
 	1    7000 3500
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R2
 U 1 1 608995EB
 P 6500 4500
-F 0 "R?" H 6430 4454 50  0000 R CNN
-F 1 "R" H 6430 4545 50  0000 R CNN
-F 2 "" V 6430 4500 50  0001 C CNN
+F 0 "R2" H 6430 4454 50  0000 R CNN
+F 1 "20k" H 6430 4545 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6430 4500 50  0001 C CNN
 F 3 "~" H 6500 4500 50  0001 C CNN
 	1    6500 4500
 	-1   0    0    1   
@@ -84,34 +84,34 @@ Wire Wire Line
 Wire Wire Line
 	7350 4000 7500 4000
 $Comp
-L Device:C C?
+L Device:C C2
 U 1 1 6089C9CA
 P 6000 4500
-F 0 "C?" H 6115 4546 50  0000 L CNN
+F 0 "C2" H 6115 4546 50  0000 L CNN
 F 1 "100nF" H 6115 4455 50  0000 L CNN
-F 2 "" H 6038 4350 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm" H 6038 4350 50  0001 C CNN
 F 3 "~" H 6000 4500 50  0001 C CNN
 	1    6000 4500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C?
+L Device:C C3
 U 1 1 6089D11C
 P 7500 4500
-F 0 "C?" H 7615 4546 50  0000 L CNN
+F 0 "C3" H 7615 4546 50  0000 L CNN
 F 1 "100nF" H 7615 4455 50  0000 L CNN
-F 2 "" H 7538 4350 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm" H 7538 4350 50  0001 C CNN
 F 3 "~" H 7500 4500 50  0001 C CNN
 	1    7500 4500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_POT RV?
+L Device:R_POT RV1
 U 1 1 6089DFB3
 P 5000 4500
-F 0 "RV?" H 4931 4546 50  0000 R CNN
-F 1 "R_POT" H 4931 4455 50  0000 R CNN
-F 2 "" H 5000 4500 50  0001 C CNN
+F 0 "RV1" H 4931 4546 50  0000 R CNN
+F 1 "5k" H 4931 4455 50  0000 R CNN
+F 2 "Potentiometer_THT:Potentiometer_ACP_CA9-V10_Vertical_Hole" H 5000 4500 50  0001 C CNN
 F 3 "~" H 5000 4500 50  0001 C CNN
 	1    5000 4500
 	1    0    0    -1  
@@ -148,12 +148,12 @@ Connection ~ 6000 3900
 Wire Wire Line
 	6000 3900 5000 3900
 $Comp
-L Device:C C?
+L Device:C C1
 U 1 1 608AC229
 P 4250 4500
-F 0 "C?" H 4365 4546 50  0000 L CNN
+F 0 "C1" H 4365 4546 50  0000 L CNN
 F 1 "100nF" H 4365 4455 50  0000 L CNN
-F 2 "" H 4288 4350 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm" H 4288 4350 50  0001 C CNN
 F 3 "~" H 4250 4500 50  0001 C CNN
 	1    4250 4500
 	1    0    0    -1  
@@ -171,10 +171,10 @@ Wire Wire Line
 Wire Wire Line
 	4250 3900 4250 4350
 $Comp
-L power:GND #PWR?
+L power:GND #PWR04
 U 1 1 608AE5FA
 P 5000 5100
-F 0 "#PWR?" H 5000 4850 50  0001 C CNN
+F 0 "#PWR04" H 5000 4850 50  0001 C CNN
 F 1 "GND" H 5005 4927 50  0000 C CNN
 F 2 "" H 5000 5100 50  0001 C CNN
 F 3 "" H 5000 5100 50  0001 C CNN
@@ -185,10 +185,10 @@ Wire Wire Line
 	5000 5100 5000 5000
 Connection ~ 5000 5000
 $Comp
-L power:GND #PWR?
+L power:GND #PWR02
 U 1 1 608AF57D
 P 3700 5100
-F 0 "#PWR?" H 3700 4850 50  0001 C CNN
+F 0 "#PWR02" H 3700 4850 50  0001 C CNN
 F 1 "GND" H 3705 4927 50  0000 C CNN
 F 2 "" H 3700 5100 50  0001 C CNN
 F 3 "" H 3700 5100 50  0001 C CNN
@@ -199,10 +199,10 @@ Wire Wire Line
 	3700 5100 3700 5000
 Connection ~ 3700 5000
 $Comp
-L power:VCC #PWR?
+L power:VCC #PWR01
 U 1 1 608B02DD
 P 3700 2900
-F 0 "#PWR?" H 3700 2750 50  0001 C CNN
+F 0 "#PWR01" H 3700 2750 50  0001 C CNN
 F 1 "VCC" H 3717 3073 50  0000 C CNN
 F 2 "" H 3700 2900 50  0001 C CNN
 F 3 "" H 3700 2900 50  0001 C CNN
@@ -213,10 +213,10 @@ Wire Wire Line
 	3700 3900 3700 2900
 Connection ~ 3700 3900
 $Comp
-L power:VCC #PWR?
+L power:VCC #PWR03
 U 1 1 608B0CDA
 P 5000 2900
-F 0 "#PWR?" H 5000 2750 50  0001 C CNN
+F 0 "#PWR03" H 5000 2750 50  0001 C CNN
 F 1 "VCC" H 5017 3073 50  0000 C CNN
 F 2 "" H 5000 2900 50  0001 C CNN
 F 3 "" H 5000 2900 50  0001 C CNN
@@ -233,35 +233,33 @@ Connection ~ 5500 5000
 Wire Wire Line
 	5500 5000 5000 5000
 $Comp
-L Connector:Conn_01x02_Female J?
+L Connector:Conn_01x02_Female J1
 U 1 1 608FC6EA
 P 2850 4550
-F 0 "J?" H 2742 4225 50  0000 C CNN
-F 1 "Conn_01x02_Female" H 2742 4316 50  0000 C CNN
-F 2 "" H 2850 4550 50  0001 C CNN
+F 0 "J1" H 2742 4225 50  0000 C CNN
+F 1 "POWER" H 2742 4316 50  0000 C CNN
+F 2 "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal" H 2850 4550 50  0001 C CNN
 F 3 "~" H 2850 4550 50  0001 C CNN
 	1    2850 4550
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	3050 4450 3500 4450
+	3050 4450 3200 4450
 Wire Wire Line
-	3500 4450 3500 3900
+	3200 4450 3200 4300
 Wire Wire Line
-	3500 3900 3700 3900
+	3050 4550 3200 4550
 Wire Wire Line
-	3050 4550 3500 4550
+	3200 4550 3200 5000
 Wire Wire Line
-	3500 4550 3500 5000
-Wire Wire Line
-	3500 5000 3700 5000
+	3200 5000 3700 5000
 $Comp
-L Connector:Conn_01x02_Female J?
+L Connector:Conn_01x02_Female J2
 U 1 1 608FF72D
 P 8300 4000
-F 0 "J?" H 8328 3976 50  0000 L CNN
-F 1 "Conn_01x02_Female" H 8328 3885 50  0000 L CNN
-F 2 "" H 8300 4000 50  0001 C CNN
+F 0 "J2" H 8328 3976 50  0000 L CNN
+F 1 "AO" H 8328 3885 50  0000 L CNN
+F 2 "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal" H 8300 4000 50  0001 C CNN
 F 3 "~" H 8300 4000 50  0001 C CNN
 	1    8300 4000
 	1    0    0    -1  
@@ -275,4 +273,51 @@ Wire Wire Line
 Wire Wire Line
 	8000 5000 7500 5000
 Connection ~ 7500 5000
+$Comp
+L Amplifier_Operational:LM358 U1
+U 2 1 609BD8EF
+P 7050 5850
+F 0 "U1" H 7050 6217 50  0000 C CNN
+F 1 "LM358" H 7050 6126 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 7050 5850 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf" H 7050 5850 50  0001 C CNN
+	2    7050 5850
+	1    0    0    -1  
+$EndComp
+NoConn ~ 7350 5850
+$Comp
+L power:GND #PWR05
+U 1 1 609BF5D5
+P 6650 6150
+F 0 "#PWR05" H 6650 5900 50  0001 C CNN
+F 1 "GND" H 6655 5977 50  0000 C CNN
+F 2 "" H 6650 6150 50  0001 C CNN
+F 3 "" H 6650 6150 50  0001 C CNN
+	1    6650 6150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6750 5950 6650 5950
+Wire Wire Line
+	6650 5950 6650 6150
+Wire Wire Line
+	6750 5750 6650 5750
+Wire Wire Line
+	6650 5750 6650 5950
+Connection ~ 6650 5950
+$Comp
+L Diode:1N4007 D1
+U 1 1 609CDDEE
+P 3200 4150
+F 0 "D1" V 3154 4229 50  0000 L CNN
+F 1 "1N4007" V 3245 4229 50  0000 L CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 3200 3975 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 3200 4150 50  0001 C CNN
+	1    3200 4150
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3200 3900 3200 4000
+Wire Wire Line
+	3200 3900 3700 3900
 $EndSCHEMATC
