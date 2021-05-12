@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\POLYGONTeam\Documents\Git\ztm_doc\PCBs\Convertors\PLC_Plug\PLC_Plug.sch</source>
+    <date>12.5.2021 г. 16:49:05</date>
+    <tool>Eeschema (5.1.5)-3</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PLC_Plug.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J19">
+      <value>RS485-1</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6065ADF1</tstamp>
+    </comp>
+    <comp ref="J14">
+      <value>AO</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G_1x03_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6065D205</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>AOV2.4</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6065E5A9</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>AOV2.3</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6065EEB8</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>AOV2.2</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6065F456</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>AOV2.1</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6065F84E</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value>RS485-2.1</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6065FC12</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>RO223</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G_1x03_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6066040D</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>RO21</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60660BFB</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>RO245</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G_1x03_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60660ED8</tstamp>
+    </comp>
+    <comp ref="J20">
+      <value>POWER</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60663120</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>AOV</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_5-G_1x05_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A05FD6</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value>RS485-2.1</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A20285</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>RO223</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G_1x03_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A2028B</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>RO21</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A20291</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>RO245</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G_1x03_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A20297</tstamp>
+    </comp>
+    <comp ref="J17">
+      <value>DI</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_5-G_1x05_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6065C14C</tstamp>
+    </comp>
+    <comp ref="J16">
+      <value>DO</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_6-G_1x06_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A395B0</tstamp>
+    </comp>
+    <comp ref="J22">
+      <value>RS485-1</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A4A221</tstamp>
+    </comp>
+    <comp ref="J15">
+      <value>AO</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_3-G_1x03_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A4A227</tstamp>
+    </comp>
+    <comp ref="J18">
+      <value>DI</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_5-G_1x05_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A4A239</tstamp>
+    </comp>
+    <comp ref="J23">
+      <value>POWER</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_2-G_1x02_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A57C07</tstamp>
+    </comp>
+    <comp ref="J21">
+      <value>DO</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBVA_2,5_6-G_1x06_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A57C0D</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x05_Male">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x06_Male">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/DO1.3">
+      <node ref="J21" pin="3"/>
+      <node ref="J16" pin="3"/>
+    </net>
+    <net code="2" name="/DO1.1">
+      <node ref="J21" pin="5"/>
+      <node ref="J16" pin="5"/>
+    </net>
+    <net code="3" name="/DO1.2">
+      <node ref="J21" pin="4"/>
+      <node ref="J16" pin="4"/>
+    </net>
+    <net code="4" name="/DO1.4">
+      <node ref="J16" pin="2"/>
+      <node ref="J21" pin="2"/>
+    </net>
+    <net code="5" name="/DOGND">
+      <node ref="J21" pin="1"/>
+      <node ref="J16" pin="1"/>
+    </net>
+    <net code="6" name="/GND">
+      <node ref="J20" pin="2"/>
+      <node ref="J23" pin="2"/>
+    </net>
+    <net code="7" name="/+24V">
+      <node ref="J23" pin="1"/>
+      <node ref="J20" pin="1"/>
+    </net>
+    <net code="8" name="/FBD">
+      <node ref="J16" pin="6"/>
+      <node ref="J21" pin="6"/>
+    </net>
+    <net code="9" name="/GND-A">
+      <node ref="J10" pin="1"/>
+      <node ref="J15" pin="2"/>
+      <node ref="J4" pin="1"/>
+      <node ref="J3" pin="1"/>
+      <node ref="J14" pin="2"/>
+      <node ref="J11" pin="1"/>
+      <node ref="J7" pin="1"/>
+    </net>
+    <net code="10" name="/AO1.1">
+      <node ref="J15" pin="3"/>
+      <node ref="J14" pin="3"/>
+    </net>
+    <net code="11" name="/RS485-B">
+      <node ref="J22" pin="2"/>
+      <node ref="J19" pin="2"/>
+    </net>
+    <net code="12" name="/DI1.4">
+      <node ref="J17" pin="1"/>
+      <node ref="J18" pin="1"/>
+    </net>
+    <net code="13" name="/DI1.3">
+      <node ref="J18" pin="2"/>
+      <node ref="J17" pin="2"/>
+    </net>
+    <net code="14" name="/DI1.2">
+      <node ref="J18" pin="3"/>
+      <node ref="J17" pin="3"/>
+    </net>
+    <net code="15" name="/DI1.1">
+      <node ref="J17" pin="4"/>
+      <node ref="J18" pin="4"/>
+    </net>
+    <net code="16" name="/DIGND">
+      <node ref="J17" pin="5"/>
+      <node ref="J18" pin="5"/>
+    </net>
+    <net code="17" name="/AI1.1">
+      <node ref="J14" pin="1"/>
+      <node ref="J15" pin="1"/>
+    </net>
+    <net code="18" name="/RS485-A">
+      <node ref="J22" pin="1"/>
+      <node ref="J19" pin="1"/>
+    </net>
+    <net code="21" name="/AOV2.1">
+      <node ref="J3" pin="2"/>
+      <node ref="J4" pin="5"/>
+    </net>
+    <net code="22" name="/AOV2.2">
+      <node ref="J7" pin="2"/>
+      <node ref="J4" pin="4"/>
+    </net>
+    <net code="23" name="/AOV2.3">
+      <node ref="J10" pin="2"/>
+      <node ref="J4" pin="3"/>
+    </net>
+    <net code="24" name="/AOV2.4">
+      <node ref="J11" pin="2"/>
+      <node ref="J4" pin="2"/>
+    </net>
+    <net code="25" name="/RS485-2.1-B">
+      <node ref="J13" pin="2"/>
+      <node ref="J13" pin="1"/>
+      <node ref="J12" pin="2"/>
+      <node ref="J12" pin="1"/>
+    </net>
+    <net code="27" name="/RO2.1">
+      <node ref="J1" pin="2"/>
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="28" name="/RO2.5">
+      <node ref="J9" pin="1"/>
+      <node ref="J8" pin="1"/>
+    </net>
+    <net code="29" name="/COM245">
+      <node ref="J8" pin="2"/>
+      <node ref="J9" pin="2"/>
+    </net>
+    <net code="30" name="/RO2.4">
+      <node ref="J8" pin="3"/>
+      <node ref="J9" pin="3"/>
+    </net>
+    <net code="31" name="/COM21">
+      <node ref="J2" pin="1"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="32" name="/RO2.2">
+      <node ref="J5" pin="3"/>
+      <node ref="J6" pin="3"/>
+    </net>
+    <net code="33" name="/COM223">
+      <node ref="J5" pin="2"/>
+      <node ref="J6" pin="2"/>
+    </net>
+    <net code="34" name="/RO2.3">
+      <node ref="J6" pin="1"/>
+      <node ref="J5" pin="1"/>
+    </net>
+  </nets>
+</export>
