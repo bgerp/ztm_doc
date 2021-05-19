@@ -238,7 +238,7 @@ U 1 1 608FC6EA
 P 2850 4550
 F 0 "J1" H 2742 4225 50  0000 C CNN
 F 1 "POWER" H 2742 4316 50  0000 C CNN
-F 2 "Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_2-G-5.08_1x02_P5.08mm_Horizontal" H 2850 4550 50  0001 C CNN
+F 2 "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal" H 2850 4550 50  0001 C CNN
 F 3 "~" H 2850 4550 50  0001 C CNN
 	1    2850 4550
 	-1   0    0    1   
@@ -259,7 +259,7 @@ U 1 1 608FF72D
 P 8300 4000
 F 0 "J2" H 8328 3976 50  0000 L CNN
 F 1 "AO" H 8328 3885 50  0000 L CNN
-F 2 "Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_2-G-5.08_1x02_P5.08mm_Horizontal" H 8300 4000 50  0001 C CNN
+F 2 "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal" H 8300 4000 50  0001 C CNN
 F 3 "~" H 8300 4000 50  0001 C CNN
 	1    8300 4000
 	1    0    0    -1  
@@ -306,10 +306,10 @@ Wire Wire Line
 	6650 5750 6650 5950
 Connection ~ 6650 5950
 $Comp
-L Diode:1N4007 D?
+L Diode:1N4007 D1
 U 1 1 609CDDEE
 P 3200 4150
-F 0 "D?" V 3154 4229 50  0000 L CNN
+F 0 "D1" V 3154 4229 50  0000 L CNN
 F 1 "1N4007" V 3245 4229 50  0000 L CNN
 F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 3200 3975 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 3200 4150 50  0001 C CNN
