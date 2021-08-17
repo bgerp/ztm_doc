@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Device:C C1
+L E-Latch-rescue:C-Device C1
 U 1 1 5DE7C345
 P 4150 2250
 F 0 "C1" H 4265 2296 50  0000 L CNN
@@ -25,7 +25,7 @@ F 3 "~" H 4150 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C2
+L E-Latch-rescue:CP-Device C2
 U 1 1 5DE7CDC8
 P 4650 2250
 F 0 "C2" H 4768 2296 50  0000 L CNN
@@ -36,7 +36,7 @@ F 3 "~" H 4650 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Regulator_Linear:LM1117-3.3 U1
+L E-Latch-rescue:LM1117-3.3-Regulator_Linear U1
 U 1 1 5DE7D658
 P 5350 1900
 F 0 "U1" H 5350 2142 50  0000 C CNN
@@ -57,7 +57,7 @@ Connection ~ 4150 1900
 Wire Wire Line
 	4150 1900 4650 1900
 $Comp
-L power:GND #PWR01
+L E-Latch-rescue:GND-power #PWR01
 U 1 1 5DE7ED8C
 P 3800 2550
 F 0 "#PWR01" H 3800 2300 50  0001 C CNN
@@ -85,7 +85,7 @@ Wire Wire Line
 	5350 2500 5350 2200
 Connection ~ 4650 2500
 $Comp
-L Device:C C5
+L E-Latch-rescue:C-Device C5
 U 1 1 5DE80683
 P 5950 2250
 F 0 "C5" H 6065 2296 50  0000 L CNN
@@ -96,7 +96,7 @@ F 3 "~" H 5950 2250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C6
+L E-Latch-rescue:CP-Device C6
 U 1 1 5DE80F8A
 P 6500 2250
 F 0 "C6" H 6618 2296 50  0000 L CNN
@@ -126,7 +126,7 @@ Wire Wire Line
 	6500 2500 6500 2400
 Connection ~ 5950 2500
 $Comp
-L power:+3.3V #PWR05
+L E-Latch-rescue:+3.3V-power #PWR05
 U 1 1 5DE82058
 P 6500 1800
 F 0 "#PWR05" H 6500 1650 50  0001 C CNN
@@ -140,7 +140,7 @@ Wire Wire Line
 	6500 1900 6500 1800
 Connection ~ 6500 1900
 $Comp
-L power:+24V #PWR02
+L E-Latch-rescue:+24V-power #PWR02
 U 1 1 5DE82A2C
 P 4150 1800
 F 0 "#PWR02" H 4150 1650 50  0001 C CNN
@@ -153,7 +153,7 @@ $EndComp
 Wire Wire Line
 	4150 1900 4150 1800
 $Comp
-L Device:CP C4
+L E-Latch-rescue:CP-Device C4
 U 1 1 5DE8391C
 P 5300 5150
 F 0 "C4" H 5418 5196 50  0000 L CNN
@@ -164,7 +164,7 @@ F 3 "~" H 5300 5150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4007 D2
+L E-Latch-rescue:1N4007-Diode D2
 U 1 1 5DE83C79
 P 6350 5900
 F 0 "D2" H 6350 6116 50  0000 C CNN
@@ -175,7 +175,7 @@ F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 6350 5900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Relay:G5LE-1 K1
+L E-Latch-rescue:G5LE-1-Relay K1
 U 1 1 5DE7CD07
 P 4350 4500
 F 0 "K1" H 4780 4546 50  0000 L CNN
@@ -186,7 +186,7 @@ F 3 "http://www.omron.com/ecb/products/pdf/en-g5le.pdf" H 4350 4100 50  0001 C C
 	0    1    1    0   
 $EndComp
 $Comp
-L Relay:G5LE-1 K2
+L E-Latch-rescue:G5LE-1-Relay K2
 U 1 1 5DE7E52A
 P 6900 4200
 F 0 "K2" H 7330 4246 50  0000 L CNN
@@ -197,7 +197,7 @@ F 3 "http://www.omron.com/ecb/products/pdf/en-g5le.pdf" H 6900 3800 50  0001 C C
 	1    0    0    -1  
 $EndComp
 $Comp
-L Relay:G5LE-1 K3
+L E-Latch-rescue:G5LE-1-Relay K3
 U 1 1 5DE7F895
 P 6900 5200
 F 0 "K3" H 7330 5246 50  0000 L CNN
@@ -208,7 +208,7 @@ F 3 "http://www.omron.com/ecb/products/pdf/en-g5le.pdf" H 6900 4800 50  0001 C C
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x02_Male J3
+L E-Latch-rescue:Conn_01x02_Male-Connector J3
 U 1 1 5DE80427
 P 9150 4700
 F 0 "J3" H 9258 4881 50  0000 C CNN
@@ -251,7 +251,7 @@ Wire Wire Line
 Wire Wire Line
 	7200 3800 7200 3900
 $Comp
-L power:+3.3V #PWR07
+L E-Latch-rescue:+3.3V-power #PWR07
 U 1 1 5DE860EF
 P 7800 3600
 F 0 "#PWR07" H 7800 3450 50  0001 C CNN
@@ -262,7 +262,7 @@ F 3 "" H 7800 3600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR06
+L E-Latch-rescue:GND-power #PWR06
 U 1 1 5DE86AC5
 P 7700 4900
 F 0 "#PWR06" H 7700 4650 50  0001 C CNN
@@ -279,7 +279,7 @@ Wire Wire Line
 	7800 3800 7800 3600
 Connection ~ 7800 3800
 $Comp
-L Device:CP C7
+L E-Latch-rescue:CP-Device C7
 U 1 1 5DE89D31
 P 8200 5100
 F 0 "C7" H 8318 5146 50  0000 L CNN
@@ -300,7 +300,7 @@ Connection ~ 8200 5600
 Wire Wire Line
 	8200 5600 8700 5600
 $Comp
-L Diode:1N4007 D1
+L E-Latch-rescue:1N4007-Diode D1
 U 1 1 5DE8E6EB
 P 6300 3500
 F 0 "D1" H 6300 3716 50  0000 C CNN
@@ -321,7 +321,7 @@ Wire Wire Line
 Wire Wire Line
 	6700 4900 6700 4700
 $Comp
-L Device:CP C3
+L E-Latch-rescue:CP-Device C3
 U 1 1 5DE92110
 P 5300 4250
 F 0 "C3" H 5418 4296 50  0000 L CNN
@@ -348,7 +348,7 @@ Wire Wire Line
 Wire Wire Line
 	5900 5900 6200 5900
 $Comp
-L power:+24V #PWR03
+L E-Latch-rescue:+24V-power #PWR03
 U 1 1 5DEA5349
 P 5300 3350
 F 0 "#PWR03" H 5300 3200 50  0001 C CNN
@@ -361,7 +361,7 @@ $EndComp
 Wire Wire Line
 	5300 3350 5300 3700
 $Comp
-L power:GND #PWR04
+L E-Latch-rescue:GND-power #PWR04
 U 1 1 5DEA6EA5
 P 5300 5650
 F 0 "#PWR04" H 5300 5400 50  0001 C CNN
@@ -392,7 +392,7 @@ Wire Wire Line
 	3950 4700 4050 4700
 Connection ~ 5900 5900
 $Comp
-L Diode:1N4007 D3
+L E-Latch-rescue:1N4007-Diode D3
 U 1 1 5EEB4CE7
 P 4350 3700
 F 0 "D3" H 4350 3916 50  0000 C CNN
@@ -1180,7 +1180,7 @@ E6 A1 BA B7 86 A2 FF A7 49 3B 60 A0 69 41 4A 8B A4 C3 BB E5 E0 3C 86 56 9E C1 9C
 EndData
 $EndBitmap
 $Comp
-L Connector:Conn_01x02_Male J2
+L E-Latch-rescue:Conn_01x02_Male-Connector J2
 U 1 1 603E2C87
 P 2400 4300
 F 0 "J2" H 2508 4481 50  0000 C CNN
@@ -1191,7 +1191,7 @@ F 3 "~" H 2400 4300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x02_Male J1
+L E-Latch-rescue:Conn_01x02_Male-Connector J1
 U 1 1 603E3D87
 P 2400 1900
 F 0 "J1" H 2508 2081 50  0000 C CNN
@@ -1208,7 +1208,7 @@ Wire Wire Line
 Wire Wire Line
 	2600 1900 4150 1900
 $Comp
-L power:GND #PWR08
+L E-Latch-rescue:GND-power #PWR08
 U 1 1 603EB349
 P 2750 4550
 F 0 "#PWR08" H 2750 4300 50  0001 C CNN
