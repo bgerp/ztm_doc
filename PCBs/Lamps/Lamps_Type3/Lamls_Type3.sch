@@ -4,8 +4,8 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "FADE LAMP CONTROLLER"
-Date "2021-03-31"
+Title "FADE LIGHT CONTROLLER"
+Date "2021-08-17"
 Rev "1.0.0"
 Comp "POLYGON Team Ltd."
 Comment1 ""

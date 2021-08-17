@@ -725,10 +725,10 @@ Wire Wire Line
 	2000 6200 2000 5950
 Connection ~ 1450 6200
 $Comp
-L Mechanical:Fiducial FID?
+L Mechanical:Fiducial FID1
 U 1 1 6124D72B
 P 5550 7550
-F 0 "FID?" H 5635 7596 50  0000 L CNN
+F 0 "FID1" H 5635 7596 50  0000 L CNN
 F 1 "Fiducial" H 5635 7505 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.5mm_Mask1.5mm" H 5550 7550 50  0001 C CNN
 F 3 "~" H 5550 7550 50  0001 C CNN
@@ -736,10 +736,10 @@ F 3 "~" H 5550 7550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:Fiducial FID?
+L Mechanical:Fiducial FID2
 U 1 1 6124DC8B
 P 6050 7550
-F 0 "FID?" H 6135 7596 50  0000 L CNN
+F 0 "FID2" H 6135 7596 50  0000 L CNN
 F 1 "Fiducial" H 6135 7505 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.5mm_Mask1.5mm" H 6050 7550 50  0001 C CNN
 F 3 "~" H 6050 7550 50  0001 C CNN
@@ -747,10 +747,10 @@ F 3 "~" H 6050 7550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:Fiducial FID?
+L Mechanical:Fiducial FID3
 U 1 1 6124E0C8
 P 6550 7550
-F 0 "FID?" H 6635 7596 50  0000 L CNN
+F 0 "FID3" H 6635 7596 50  0000 L CNN
 F 1 "Fiducial" H 6635 7505 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.5mm_Mask1.5mm" H 6550 7550 50  0001 C CNN
 F 3 "~" H 6550 7550 50  0001 C CNN
