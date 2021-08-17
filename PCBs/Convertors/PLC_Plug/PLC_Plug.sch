@@ -175,7 +175,7 @@ Wire Bus Line
 	5700 5000 5700 5550
 Wire Bus Line
 	5700 4050 5700 5000
-Text Label 4100 3050 1    50   ~ 0
+Text Label 4200 3050 1    50   ~ 0
 AOV2.1
 Wire Wire Line
 	4100 2700 4100 3050
@@ -193,19 +193,19 @@ Wire Wire Line
 	5000 2700 5000 3050
 Wire Wire Line
 	5100 2700 5100 3050
-Text Label 4400 3050 1    50   ~ 0
-AOV2.2
-Text Label 4700 3050 1    50   ~ 0
-AOV2.3
-Text Label 5000 3050 1    50   ~ 0
-AOV2.4
-Text Label 4200 3050 1    50   ~ 0
-GND-A
 Text Label 4500 3050 1    50   ~ 0
-GND-A
+AOV2.2
 Text Label 4800 3050 1    50   ~ 0
-GND-A
+AOV2.3
 Text Label 5100 3050 1    50   ~ 0
+AOV2.4
+Text Label 4100 3050 1    50   ~ 0
+GND-A
+Text Label 4400 3050 1    50   ~ 0
+GND-A
+Text Label 4700 3050 1    50   ~ 0
+GND-A
+Text Label 5000 3050 1    50   ~ 0
 GND-A
 Wire Wire Line
 	4050 3600 4050 3950
@@ -258,28 +258,28 @@ Wire Wire Line
 	4350 4550 4350 4900
 Wire Wire Line
 	4450 4900 4450 4550
-Text Label 4350 4900 1    50   ~ 0
-AOV2.1
-Text Label 4250 4900 1    50   ~ 0
-AOV2.2
-Text Label 4150 4900 1    50   ~ 0
-AOV2.3
 Text Label 4050 4900 1    50   ~ 0
+AOV2.1
+Text Label 4150 4900 1    50   ~ 0
+AOV2.2
+Text Label 4250 4900 1    50   ~ 0
+AOV2.3
+Text Label 4350 4900 1    50   ~ 0
 AOV2.4
 Text Label 4450 4900 1    50   ~ 0
 GND-A
 Connection ~ 5700 4050
-Text Label 4050 3950 1    50   ~ 0
-RO2.1
-Text Label 4300 3950 1    50   ~ 0
-RO2.2
-Text Label 4500 3950 1    50   ~ 0
-RO2.3
-Text Label 4650 3950 1    50   ~ 0
-RO2.4
-Text Label 4850 3950 1    50   ~ 0
-RO2.5
 Text Label 4150 3950 1    50   ~ 0
+RO2.1
+Text Label 4500 3950 1    50   ~ 0
+RO2.2
+Text Label 4300 3950 1    50   ~ 0
+RO2.3
+Text Label 4850 3950 1    50   ~ 0
+RO2.4
+Text Label 4650 3950 1    50   ~ 0
+RO2.5
+Text Label 4050 3950 1    50   ~ 0
 COM21
 Text Label 4400 3950 1    50   ~ 0
 COM223
@@ -371,17 +371,17 @@ Wire Wire Line
 	5000 5450 5000 5800
 Wire Wire Line
 	5100 5450 5100 5800
-Text Label 4050 5800 1    50   ~ 0
-RO2.1
-Text Label 4300 5800 1    50   ~ 0
-RO2.2
-Text Label 4500 5800 1    50   ~ 0
-RO2.3
-Text Label 4650 5800 1    50   ~ 0
-RO2.4
-Text Label 4850 5800 1    50   ~ 0
-RO2.5
 Text Label 4150 5800 1    50   ~ 0
+RO2.1
+Text Label 4500 5800 1    50   ~ 0
+RO2.2
+Text Label 4300 5800 1    50   ~ 0
+RO2.3
+Text Label 4850 5800 1    50   ~ 0
+RO2.4
+Text Label 4650 5800 1    50   ~ 0
+RO2.5
+Text Label 4050 5800 1    50   ~ 0
 COM21
 Text Label 4400 5800 1    50   ~ 0
 COM223
@@ -389,13 +389,13 @@ Text Label 4750 5800 1    50   ~ 0
 COM245
 Wire Bus Line
 	5700 5000 5700 5900
-Text Label 5000 3950 1    50   ~ 0
-RS485-2.1-B
 Text Label 5100 3950 1    50   ~ 0
-RS485-2.1-A
-Text Label 5000 5800 1    50   ~ 0
 RS485-2.1-B
+Text Label 5000 3950 1    50   ~ 0
+RS485-2.1-A
 Text Label 5100 5800 1    50   ~ 0
+RS485-2.1-B
+Text Label 5000 5800 1    50   ~ 0
 RS485-2.1-A
 Entry Wire Line
 	6100 3050 6200 3150
