@@ -232,47 +232,18 @@ Wire Wire Line
 Connection ~ 5500 5000
 Wire Wire Line
 	5500 5000 5000 5000
-$Comp
-L Connector:Conn_01x02_Female J1
-U 1 1 608FC6EA
-P 2850 4550
-F 0 "J1" H 2742 4225 50  0000 C CNN
-F 1 "POWER" H 2742 4316 50  0000 C CNN
-F 2 "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal" H 2850 4550 50  0001 C CNN
-F 3 "~" H 2850 4550 50  0001 C CNN
-	1    2850 4550
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
-	3050 4450 3200 4450
+	2500 4450 3200 4450
 Wire Wire Line
 	3200 4450 3200 4300
 Wire Wire Line
-	3050 4550 3200 4550
+	2500 4550 3200 4550
 Wire Wire Line
 	3200 4550 3200 5000
 Wire Wire Line
 	3200 5000 3700 5000
-$Comp
-L Connector:Conn_01x02_Female J2
-U 1 1 608FF72D
-P 8300 4000
-F 0 "J2" H 8328 3976 50  0000 L CNN
-F 1 "AO" H 8328 3885 50  0000 L CNN
-F 2 "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal" H 8300 4000 50  0001 C CNN
-F 3 "~" H 8300 4000 50  0001 C CNN
-	1    8300 4000
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	8100 4000 7500 4000
-Wire Wire Line
-	8100 4100 8000 4100
-Wire Wire Line
-	8000 4100 8000 5000
-Wire Wire Line
-	8000 5000 7500 5000
-Connection ~ 7500 5000
 $Comp
 L Amplifier_Operational:LM358 U1
 U 2 1 609BD8EF
@@ -320,4 +291,21 @@ Wire Wire Line
 	3200 3900 3200 4000
 Wire Wire Line
 	3200 3900 3700 3900
+Text GLabel 8100 4000 2    50   Input ~ 0
+AO
+$Comp
+L Connector:Conn_01x03_Male J1
+U 1 1 60A470FC
+P 2300 4550
+F 0 "J1" H 2408 4831 50  0000 C CNN
+F 1 "CON" H 2408 4740 50  0000 C CNN
+F 2 "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_3-G-5,08_1x03_P5.08mm_Horizontal" H 2300 4550 50  0001 C CNN
+F 3 "~" H 2300 4550 50  0001 C CNN
+	1    2300 4550
+	1    0    0    -1  
+$EndComp
+Text GLabel 2750 4650 2    50   Input ~ 0
+AO
+Wire Wire Line
+	2500 4650 2750 4650
 $EndSCHEMATC

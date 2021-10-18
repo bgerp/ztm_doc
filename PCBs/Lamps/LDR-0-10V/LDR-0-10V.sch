@@ -119,10 +119,7 @@ $EndComp
 Wire Wire Line
 	6750 3900 6000 3900
 Wire Wire Line
-	5000 3900 5000 4350
-Wire Wire Line
 	5000 3900 5000 3650
-Connection ~ 5000 3900
 Wire Wire Line
 	7500 4000 7500 4350
 Connection ~ 7500 4000
@@ -136,8 +133,6 @@ Wire Wire Line
 	6000 4650 6000 5000
 Connection ~ 6000 5000
 Wire Wire Line
-	6000 5000 5500 5000
-Wire Wire Line
 	6500 4650 6500 5000
 Connection ~ 6500 5000
 Wire Wire Line
@@ -146,7 +141,7 @@ Wire Wire Line
 	6000 4350 6000 3900
 Connection ~ 6000 3900
 Wire Wire Line
-	6000 3900 5000 3900
+	6000 3900 5350 3900
 $Comp
 L Device:C C1
 U 1 1 608AC229
@@ -226,13 +221,6 @@ $EndComp
 Wire Wire Line
 	5000 3350 5000 2900
 Wire Wire Line
-	5150 4500 5500 4500
-Wire Wire Line
-	5500 4500 5500 5000
-Connection ~ 5500 5000
-Wire Wire Line
-	5500 5000 5000 5000
-Wire Wire Line
 	2500 4450 3200 4450
 Wire Wire Line
 	3200 4450 3200 4300
@@ -308,4 +296,16 @@ Text GLabel 2750 4650 2    50   Input ~ 0
 AO
 Wire Wire Line
 	2500 4650 2750 4650
+Wire Wire Line
+	5000 5000 6000 5000
+Wire Wire Line
+	5350 4500 5150 4500
+Connection ~ 5000 3900
+Connection ~ 5350 3900
+Wire Wire Line
+	5350 3900 5000 3900
+Wire Wire Line
+	5000 3900 5000 4350
+Wire Wire Line
+	5350 3900 5350 4500
 $EndSCHEMATC
