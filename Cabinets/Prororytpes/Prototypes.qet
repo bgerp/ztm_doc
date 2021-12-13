@@ -421,7 +421,7 @@ Created by potrace 1.10, written by Peter Selinger 2001-2011
         <property name="savedfilename" show="1">Prototypes</property>
         <property name="saveddate" show="1">13.12.2021 г.</property>
         <property name="savedfilepath" show="1">C:/Users/POLYGONTeam/Documents/Git/ztm_doc/Cabinets/Prororytpes/Prototypes.qet</property>
-        <property name="savedtime" show="1">12:35</property>
+        <property name="savedtime" show="1">12:40</property>
         <property name="saveddate-eu" show="1">13-12-2021</property>
     </properties>
     <newdiagrams>
@@ -577,23 +577,6 @@ Created by potrace 1.10, written by Peter Selinger 2001-2011
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element z="-12" y="190" orientation="0" uuid="{ac725e66-66a6-44e2-a6cb-087a765a4a40}" prefix="" type="embed://import/ast-m-100-40.elmt" freezeLabel="false" x="790">
-                <terminals/>
-                <inputs/>
-                <elementInformations>
-                    <elementInformation name="label" show="1"></elementInformation>
-                    <elementInformation name="formula" show="1"></elementInformation>
-                    <elementInformation name="location" show="1"></elementInformation>
-                    <elementInformation name="comment" show="1"></elementInformation>
-                </elementInformations>
-                <dynamic_texts>
-                    <dynamic_elmt_text Valignment="AlignTop" font="Sans Serif,4,-1,5,25,0,0,0,0,0" rotation="0" y="58.5" uuid="{628db7cf-f426-415b-996a-299600a5d67a}" text_from="ElementInfo" frame="false" keep_visual_rotation="true" text_width="-1" x="0" Halignment="AlignLeft">
-                        <text></text>
-                        <info_name>label</info_name>
-                    </dynamic_elmt_text>
-                </dynamic_texts>
-                <texts_groups/>
-            </element>
             <element z="9" y="400" orientation="0" uuid="{d9ea3d6c-5df5-417e-a85c-43c3f33966d0}" prefix="" type="embed://import/FP425-0306.elmt" freezeLabel="false" x="284">
                 <terminals/>
                 <inputs/>
@@ -670,21 +653,6 @@ Created by potrace 1.10, written by Peter Selinger 2001-2011
                     <elementInformation name="comment" show="1"></elementInformation>
                 </elementInformations>
                 <dynamic_texts/>
-                <texts_groups/>
-            </element>
-            <element z="10" y="220" orientation="0" uuid="{4d115ec8-204c-4563-ac50-a1328cd5a846}" prefix="" type="embed://import/ast-m-100-30.elmt" freezeLabel="false" x="880">
-                <terminals/>
-                <inputs/>
-                <elementInformations>
-                    <elementInformation name="label" show="1"></elementInformation>
-                    <elementInformation name="formula" show="1"></elementInformation>
-                </elementInformations>
-                <dynamic_texts>
-                    <dynamic_elmt_text Valignment="AlignTop" font="Sans Serif,4,-1,5,25,0,0,0,0,0" rotation="0" y="58.5" uuid="{ea90f438-415a-4550-aef0-9dbd830ce8d6}" text_from="ElementInfo" frame="false" keep_visual_rotation="true" text_width="-1" x="0" Halignment="AlignLeft">
-                        <text></text>
-                        <info_name>label</info_name>
-                    </dynamic_elmt_text>
-                </dynamic_texts>
                 <texts_groups/>
             </element>
             <element z="10" y="240" orientation="0" uuid="{96d441e0-5f1e-4415-a22b-d0a626ca78b8}" prefix="" type="embed://import/SDM6303.elmt" freezeLabel="false" x="190">
