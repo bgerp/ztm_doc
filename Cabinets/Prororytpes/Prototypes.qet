@@ -1201,7 +1201,7 @@ Created by potrace 1.10, written by Peter Selinger 2001-2011
             </shape>
             <shape closed="0" x1="350" z="9" rx="0" is_movable="1" y2="200" x2="510" ry="0" y1="190" type="Rectangle">
                 <pen style="SolidLine" widthF="1" color="#000000"/>
-                <brush style="SolidPattern" color="#c7c170"/>
+                <brush style="SolidPattern" color="#aaaa00"/>
             </shape>
             <shape closed="0" x1="140" z="9" rx="0" is_movable="1" y2="540" x2="300" ry="0" y1="530" type="Rectangle">
                 <pen style="SolidLine" widthF="1" color="#000000"/>
