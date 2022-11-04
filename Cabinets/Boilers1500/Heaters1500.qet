@@ -439,6 +439,20 @@ Created by potrace 1.10, written by Peter Selinger 2001-2011
         <element_autonums freeze_new_elements="false" current_autonum=""/>
     </newdiagrams>
     <diagram displaycols="true" author="Orlin Dimitrov" displayrows="true" displayAt="bottom" height="660" colsize="60" order="1" cols="17" freezeNewConductor="false" rowsize="80" freezeNewElement="false" date="null" titleblocktemplateCollection="embedded" plant="EC" folio="%id/%total" locmach="BCVT" indexrev="1" rows="8" filename="" version="0.80c+87c957a06d79751d3" auto_page_num="Create an auto folio numbering" title="Power Supply 1" titleblocktemplate="A4_PT">
+        <properties>
+            <property name="author" show="1">Orlin Dimitrov</property>
+            <property name="client" show="1">BCVT</property>
+            <property name="date" show="1"></property>
+            <property name="projet" show="1">BCVT</property>
+            <property name="label2" show="1"></property>
+            <property name="title" show="1"></property>
+            <property name="label3" show="1"></property>
+            <property name="filename" show="1"></property>
+            <property name="revision" show="1">1</property>
+            <property name="objet" show="1">EC</property>
+            <property name="label1" show="1"></property>
+            <property name="model" show="1"></property>
+        </properties>
         <defaultconductor conductor_color="" condsize="1" vertirotatetext="270" horizontal-alignment="AlignBottom" function="" num="_" text_color="#000000" type="multi" horizrotatetext="0" numsize="7" color2="#000000" conductor_section="" bus="" bicolor="false" tension_protocol="" cable="" formula="" displaytext="1" onetextperfolio="0" dash-size="2" vertical-alignment="AlignRight"/>
         <elements>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="1000" z="10" prefix="" uuid="{08dfee77-e710-45ad-8b9f-1a050af43262}" y="80" orientation="0" freezeLabel="false">
@@ -992,6 +1006,20 @@ Created by potrace 1.10, written by Peter Selinger 2001-2011
         </inputs>
     </diagram>
     <diagram displaycols="true" author="Orlin Dimitrov" displayrows="true" displayAt="bottom" height="660" colsize="60" order="2" cols="17" freezeNewConductor="false" rowsize="80" freezeNewElement="false" date="null" titleblocktemplateCollection="embedded" plant="EC" folio="%id/%total" locmach="BCVT" indexrev="1" rows="8" filename="" version="0.80c+87c957a06d79751d3" auto_page_num="Create an auto folio numbering" title="Power Supply 2" titleblocktemplate="A4_PT">
+        <properties>
+            <property name="author" show="1">Orlin Dimitrov</property>
+            <property name="client" show="1">BCVT</property>
+            <property name="date" show="1"></property>
+            <property name="projet" show="1">BCVT</property>
+            <property name="label2" show="1"></property>
+            <property name="title" show="1"></property>
+            <property name="label3" show="1"></property>
+            <property name="filename" show="1"></property>
+            <property name="revision" show="1">1</property>
+            <property name="objet" show="1">EC</property>
+            <property name="label1" show="1"></property>
+            <property name="model" show="1"></property>
+        </properties>
         <defaultconductor conductor_color="" condsize="1" vertirotatetext="270" horizontal-alignment="AlignBottom" function="" num="_" text_color="#000000" type="multi" horizrotatetext="0" numsize="7" color2="#000000" conductor_section="" bus="" bicolor="false" tension_protocol="" cable="" formula="" displaytext="1" onetextperfolio="0" dash-size="2" vertical-alignment="AlignRight"/>
         <elements>
             <element type="embed://import/10_electric/11_singlepole/200_fuses&amp;protective_gears/11_circuit_breakers/disjonct-m.elmt" x="270" z="10" prefix="F" uuid="{8d30f331-2dff-427d-961b-9bd8a66c8a3a}" y="170" orientation="0" freezeLabel="false">
@@ -1646,6 +1674,20 @@ Created by potrace 1.10, written by Peter Selinger 2001-2011
         </conductors>
     </diagram>
     <diagram displaycols="true" author="Orlin Dimitrov" displayrows="true" displayAt="bottom" height="660" colsize="60" order="3" cols="17" freezeNewConductor="false" rowsize="80" freezeNewElement="false" date="null" titleblocktemplateCollection="embedded" plant="" folio="%id/%total" locmach="" indexrev="" rows="8" filename="" version="0.80c+87c957a06d79751d3" auto_page_num="Create an auto folio numbering" title="Thermal Controller 1" titleblocktemplate="A4_PT">
+        <properties>
+            <property name="author" show="1">Orlin Dimitrov</property>
+            <property name="client" show="1">BCVT</property>
+            <property name="date" show="1"></property>
+            <property name="projet" show="1">BCVT</property>
+            <property name="label2" show="1"></property>
+            <property name="title" show="1"></property>
+            <property name="label3" show="1"></property>
+            <property name="filename" show="1"></property>
+            <property name="revision" show="1">1</property>
+            <property name="objet" show="1">EC</property>
+            <property name="label1" show="1"></property>
+            <property name="model" show="1"></property>
+        </properties>
         <defaultconductor conductor_color="" condsize="1" vertirotatetext="270" horizontal-alignment="AlignBottom" function="" num="_" text_color="#000000" type="multi" horizrotatetext="0" numsize="7" color2="#000000" conductor_section="" bus="" bicolor="false" tension_protocol="" cable="" formula="" displaytext="1" onetextperfolio="0" dash-size="2" vertical-alignment="AlignRight"/>
         <elements>
             <element type="embed://import/10_electric/10_allpole/310_relays_contactors&amp;contacts/01_coils/relais_statique.elmt" x="630" z="10" prefix="K" uuid="{167697ca-7d3e-4138-a32a-996be69ebcc7}" y="270" orientation="0" freezeLabel="false">
@@ -2076,6 +2118,20 @@ Created by potrace 1.10, written by Peter Selinger 2001-2011
         </inputs>
     </diagram>
     <diagram displaycols="true" author="Orlin Dimitrov" displayrows="true" displayAt="bottom" height="660" colsize="60" order="4" cols="17" freezeNewConductor="false" rowsize="80" freezeNewElement="false" date="null" titleblocktemplateCollection="embedded" plant="" folio="%id/%total" locmach="" indexrev="" rows="8" filename="" version="0.80c+87c957a06d79751d3" auto_page_num="Create an auto folio numbering" title="Heater Group 1" titleblocktemplate="A4_PT">
+        <properties>
+            <property name="author" show="1">Orlin Dimitrov</property>
+            <property name="client" show="1">BCVT</property>
+            <property name="date" show="1"></property>
+            <property name="projet" show="1">BCVT</property>
+            <property name="label2" show="1"></property>
+            <property name="title" show="1"></property>
+            <property name="label3" show="1"></property>
+            <property name="filename" show="1"></property>
+            <property name="revision" show="1">1</property>
+            <property name="objet" show="1">EC</property>
+            <property name="label1" show="1"></property>
+            <property name="model" show="1"></property>
+        </properties>
         <defaultconductor conductor_color="" condsize="1" vertirotatetext="270" horizontal-alignment="AlignBottom" function="" num="_" text_color="#000000" type="multi" horizrotatetext="0" numsize="7" color2="#000000" conductor_section="" bus="" bicolor="false" tension_protocol="" cable="" formula="" displaytext="1" onetextperfolio="0" dash-size="2" vertical-alignment="AlignRight"/>
         <elements>
             <element type="embed://import/10_electric/10_allpole/310_relays_contactors&amp;contacts/02_contacts_cross_referencing/02_power_contacts/com_puiss4.elmt" x="160" z="10" prefix="S" uuid="{ec41ab42-f888-4e58-8638-2d249312da5a}" y="280" orientation="0" freezeLabel="false">
@@ -3028,6 +3084,20 @@ Created by potrace 1.10, written by Peter Selinger 2001-2011
         </shapes>
     </diagram>
     <diagram displaycols="true" author="Orlin Dimitrov" displayrows="true" displayAt="bottom" height="660" colsize="60" order="5" cols="17" freezeNewConductor="false" rowsize="80" freezeNewElement="false" date="null" titleblocktemplateCollection="embedded" plant="" folio="%id/%total" locmach="" indexrev="" rows="8" filename="" version="0.80c+87c957a06d79751d3" auto_page_num="Create an auto folio numbering" title="Thermal Controller 2" titleblocktemplate="A4_PT">
+        <properties>
+            <property name="author" show="1">Orlin Dimitrov</property>
+            <property name="client" show="1">BCVT</property>
+            <property name="date" show="1"></property>
+            <property name="projet" show="1">BCVT</property>
+            <property name="label2" show="1"></property>
+            <property name="title" show="1"></property>
+            <property name="label3" show="1"></property>
+            <property name="filename" show="1"></property>
+            <property name="revision" show="1">1</property>
+            <property name="objet" show="1">EC</property>
+            <property name="label1" show="1"></property>
+            <property name="model" show="1"></property>
+        </properties>
         <defaultconductor conductor_color="" condsize="1" vertirotatetext="270" horizontal-alignment="AlignBottom" function="" num="_" text_color="#000000" type="multi" horizrotatetext="0" numsize="7" color2="#000000" conductor_section="" bus="" bicolor="false" tension_protocol="" cable="" formula="" displaytext="1" onetextperfolio="0" dash-size="2" vertical-alignment="AlignRight"/>
         <elements>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/01coming_arrow.elmt" x="80" z="10" prefix="" uuid="{62aca4ae-6a58-4335-a1b6-63f4e4c5f751}" y="120" orientation="0" freezeLabel="false">
@@ -3461,6 +3531,20 @@ Created by potrace 1.10, written by Peter Selinger 2001-2011
         </inputs>
     </diagram>
     <diagram displaycols="true" author="Orlin Dimitrov" displayrows="true" displayAt="bottom" height="660" colsize="60" order="6" cols="17" freezeNewConductor="false" rowsize="80" freezeNewElement="false" date="null" titleblocktemplateCollection="embedded" plant="" folio="%id/%total" locmach="" indexrev="" rows="8" filename="" version="0.80c+87c957a06d79751d3" auto_page_num="Create an auto folio numbering" title="Heater Group 2" titleblocktemplate="A4_PT">
+        <properties>
+            <property name="author" show="1">Orlin Dimitrov</property>
+            <property name="client" show="1">BCVT</property>
+            <property name="date" show="1"></property>
+            <property name="projet" show="1">BCVT</property>
+            <property name="label2" show="1"></property>
+            <property name="title" show="1"></property>
+            <property name="label3" show="1"></property>
+            <property name="filename" show="1"></property>
+            <property name="revision" show="1">1</property>
+            <property name="objet" show="1">EC</property>
+            <property name="label1" show="1"></property>
+            <property name="model" show="1"></property>
+        </properties>
         <defaultconductor conductor_color="" condsize="1" vertirotatetext="270" horizontal-alignment="AlignBottom" function="" num="_" text_color="#000000" type="multi" horizrotatetext="0" numsize="7" color2="#000000" conductor_section="" bus="" bicolor="false" tension_protocol="" cable="" formula="" displaytext="1" onetextperfolio="0" dash-size="2" vertical-alignment="AlignRight"/>
         <elements>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/01coming_arrow.elmt" x="70" z="10" prefix="" uuid="{9f1a9da0-e492-4774-bbc7-6b86acf59f50}" y="80" orientation="0" freezeLabel="false">
@@ -4419,6 +4503,20 @@ Created by potrace 1.10, written by Peter Selinger 2001-2011
         </shapes>
     </diagram>
     <diagram displaycols="true" author="Orlin Dimitrov" displayrows="true" displayAt="bottom" height="660" colsize="60" order="7" cols="17" freezeNewConductor="false" rowsize="80" freezeNewElement="false" date="null" titleblocktemplateCollection="embedded" plant="" folio="%id/%total" locmach="" indexrev="" rows="8" filename="" version="0.80c+87c957a06d79751d3" auto_page_num="Create an auto folio numbering" title="Thermal Controller 3" titleblocktemplate="A4_PT">
+        <properties>
+            <property name="author" show="1">Orlin Dimitrov</property>
+            <property name="client" show="1">BCVT</property>
+            <property name="date" show="1"></property>
+            <property name="projet" show="1">BCVT</property>
+            <property name="label2" show="1"></property>
+            <property name="title" show="1"></property>
+            <property name="label3" show="1"></property>
+            <property name="filename" show="1"></property>
+            <property name="revision" show="1">1</property>
+            <property name="objet" show="1">EC</property>
+            <property name="label1" show="1"></property>
+            <property name="model" show="1"></property>
+        </properties>
         <defaultconductor conductor_color="" condsize="1" vertirotatetext="270" horizontal-alignment="AlignBottom" function="" num="_" text_color="#000000" type="multi" horizrotatetext="0" numsize="7" color2="#000000" conductor_section="" bus="" bicolor="false" tension_protocol="" cable="" formula="" displaytext="1" onetextperfolio="0" dash-size="2" vertical-alignment="AlignRight"/>
         <elements>
             <element type="embed://import/10_electric/10_allpole/130_terminals&amp;terminal_strips/bornedouble.elmt" x="260" z="10" prefix="X" uuid="{aa199253-5f50-4533-b7d2-4c75f923d1ae}" y="320" orientation="0" freezeLabel="false">
@@ -4852,6 +4950,20 @@ Created by potrace 1.10, written by Peter Selinger 2001-2011
         </inputs>
     </diagram>
     <diagram displaycols="true" author="Orlin Dimitrov" displayrows="true" displayAt="bottom" height="660" colsize="60" order="8" cols="17" freezeNewConductor="false" rowsize="80" freezeNewElement="false" date="null" titleblocktemplateCollection="embedded" plant="" folio="%id/%total" locmach="" indexrev="" rows="8" filename="" version="0.80c+87c957a06d79751d3" auto_page_num="Create an auto folio numbering" title="Heater Group 3" titleblocktemplate="A4_PT">
+        <properties>
+            <property name="author" show="1">Orlin Dimitrov</property>
+            <property name="client" show="1">BCVT</property>
+            <property name="date" show="1"></property>
+            <property name="projet" show="1">BCVT</property>
+            <property name="label2" show="1"></property>
+            <property name="title" show="1"></property>
+            <property name="label3" show="1"></property>
+            <property name="filename" show="1"></property>
+            <property name="revision" show="1">1</property>
+            <property name="objet" show="1">EC</property>
+            <property name="label1" show="1"></property>
+            <property name="model" show="1"></property>
+        </properties>
         <defaultconductor conductor_color="" condsize="1" vertirotatetext="270" horizontal-alignment="AlignBottom" function="" num="_" text_color="#000000" type="multi" horizrotatetext="0" numsize="7" color2="#000000" conductor_section="" bus="" bicolor="false" tension_protocol="" cable="" formula="" displaytext="1" onetextperfolio="0" dash-size="2" vertical-alignment="AlignRight"/>
         <elements>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/01coming_arrow.elmt" x="70" z="10" prefix="" uuid="{f43910fd-6949-4d91-9d3e-ee83cb5739bf}" y="50" orientation="0" freezeLabel="false">
