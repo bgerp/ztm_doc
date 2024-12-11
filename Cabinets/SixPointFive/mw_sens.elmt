@@ -1,0 +1,37 @@
+<definition hotspot_x="20" link_type="simple" type="element" version="0.90" width="80" hotspot_y="41" height="100">
+    <uuid uuid="{bed445e5-cd7b-4617-bc2e-9176ff01ecf2}"/>
+    <names>
+        <name lang="it">Sensore di conduttività Cerabar M</name>
+        <name lang="es">Cerabar M Sensor de presión</name>
+        <name lang="fr">Sonde pression Cerabar M</name>
+        <name lang="el">Αισθητήρας πίεσης Cerabar M</name>
+        <name lang="en">Pressure Sensor Cerabar M</name>
+        <name lang="cs">Tlakové čidlo Cerabar M</name>
+        <name lang="ar">مجس ضغط Cerabar M</name>
+        <name lang="pl">Przetwornik ciśnienia Cerabar M</name>
+        <name lang="nl">Druk sensor Cerabar M</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle x="-15" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="70" antialias="true" y="-35"/>
+        <text x="35" rotation="0" text="L" font="Sans Serif,7,-1,5,50,0,0,0,0,0" color="#000000" y="10"/>
+        <text x="15" rotation="0" text="MSV" font="Sans Serif,5,-1,5,50,0,0,0,0,0" color="#000000" y="-20"/>
+        <text x="15" rotation="0" text="N" font="Sans Serif,7,-1,5,50,0,0,0,0,0" color="#000000" y="10"/>
+        <text x="-4" rotation="0" text="A" font="Sans Serif,7,-1,5,50,0,0,0,0,0" color="#000000" y="10"/>
+        <line y2="50" y1="24" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" x2="40" antialias="false" x1="40" end2="none" end1="none"/>
+        <line y2="50" y1="24" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" x2="20" antialias="false" x1="20" end2="none" end1="none"/>
+        <line y2="50" y1="24" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" x2="0" antialias="false" x1="0" end2="none" end1="none"/>
+        <circle x="-3.60555" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="7.2111" antialias="true" y="16.3944"/>
+        <circle x="36.3944" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="7.2111" antialias="true" y="16.3944"/>
+        <circle x="16.3944" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="7.2111" antialias="true" y="16.3944"/>
+        <dynamic_text x="-5" rotation="0" Halignment="AlignLeft" uuid="{f9687ae2-c9af-4fe4-94a0-9da5edeaadf0}" text_width="-1" z="18" keep_visual_rotation="false" text_from="ElementInfo" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-21.5" frame="false" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal x="0" orientation="s" uuid="{dcf66ad0-62cb-4f5d-8f69-fb60164e2205}" type="Generic" name="" y="50"/>
+        <terminal x="40" orientation="s" uuid="{964ec95f-eb8b-461e-bb64-7b3432519077}" type="Generic" name="" y="50"/>
+        <terminal x="20" orientation="s" uuid="{42eefc45-bf64-4636-93e9-5e8118ad1868}" type="Generic" name="" y="50"/>
+    </description>
+</definition>
