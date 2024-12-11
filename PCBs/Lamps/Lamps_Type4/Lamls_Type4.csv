@@ -1,0 +1,22 @@
+Id;Designator;Package;Quantity;Designation;Supplier and ref
+1;RV6,RV5,RV4,RV3,RV2,RV1,RV7;Potentiometer_ACP_CA9-V10_Vertical;7;20k;
+2;R10,R9,R8,R7,R6,R5;R_0805_2012Metric;6;330;
+3;Q6,Q5,Q4,Q3,Q2,Q1;TO-92_Inline_Wide;6;2N2222;
+4;FID2,FID1,FID3;Fiducial_0.5mm_Mask1.5mm;3;Fiducial;
+5;U1;SO-8_5.3x6.2mm_P1.27mm;1;LM358;
+6;R11,R13,R12;R_0805_2012Metric;3;1k;
+7;R4,R2;R_0805_2012Metric;2;4.3k;
+8;R3,R1;R_0805_2012Metric;2;10k;
+9;Q8,Q7;TO-92_Inline_Wide;2;BC517;
+10;J8;TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;1;LAMP6;
+11;J4;TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;1;LAMP3;
+12;J3;TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;1;LAMP2;
+13;J7;TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;1;LAMP5;
+14;J6;TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;1;LAMP1;
+15;J5;TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;1;LAMP4;
+16;J1;TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal;1;IN;
+17;J2;TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;1;POWER;
+18;J11;TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;1;ENABLE;
+19;RL1;Relay_DPDT_Omron_G2RL;1;G2RL-2-ASI-DC12;
+20;C1;C_0805_2012Metric;1;100nF;
+21;D7;D_SMA;1;1N4007;
